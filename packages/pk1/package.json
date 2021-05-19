@@ -1,5 +1,5 @@
 {
-  "name": "@shein/pk1",
+  "name": "@wsy/pk1",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
