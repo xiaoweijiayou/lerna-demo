@@ -1,5 +1,5 @@
 {
-  "name": "@wsy/pk1",
+  "name": "wsy-pk1",
   "version": "0.0.2",
   "scripts": {
     "dev": "vite",
